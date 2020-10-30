@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Blog/Portfolio</title>
+    <link>https://afiore51.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Blog/Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Oct 2020 14:13:21 +0100</lastBuildDate><atom:link href="https://afiore51.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming soon</title>
+      <link>https://afiore51.github.io/portfolio/first/</link>
+      <pubDate>Fri, 30 Oct 2020 14:13:21 +0100</pubDate>
+      
+      <guid>https://afiore51.github.io/portfolio/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
