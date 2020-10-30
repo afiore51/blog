@@ -1,0 +1,24 @@
+
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <style>
+    .about-img{
+      float: right;
+      width: 20%;
+      border-radius: 50%;
+      
+      background: #2b7551;
+    }
+  </style>
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+        <img src="/img/b.png" class="about-img">
+         <h1>{{ .Title }}</h1>
+         {{ .Content }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
